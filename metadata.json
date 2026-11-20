@@ -1,0 +1,6 @@
+{
+  "name": "AI Text to Speech Generator",
+  "description": "Convert written content into natural-sounding, expressive AI voiceovers with customizable voices, emotions, and pacing.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
